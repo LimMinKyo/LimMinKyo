@@ -4,17 +4,17 @@
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%23#4FC08D)
+![Vue](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%23#4FC08D)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
-![Node.js](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23#339933)
-![Nest.js](https://img.shields.io/badge/nest.js-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
+![Node.js](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23#339933)
+![Nest.js](https://img.shields.io/badge/nest.js-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=%23E0234E)
 
 <div align=center>
 
