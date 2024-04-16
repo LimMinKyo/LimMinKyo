@@ -13,7 +13,17 @@
   </h3>
 </div>
 
+<div align="center">
+  <a href="https://limminkyo.notion.site/1-4bf4fae4b2a9406faac0f125e9aa53d0?pvs=4">
+    <img src="https://img.shields.io/badge/Resume/Portfolio-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black">
+  </a>
+</div>
+
 <br>
+
+## 📞 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limminkyo)
 
 ## 💁🏻 Introduce
 
@@ -81,12 +91,6 @@
   <br>
   <br>
   <br>
-
-  <div align="center">
-    <a href="https://false-baseball-e2c.notion.site/1-4bf4fae4b2a9406faac0f125e9aa53d0?pvs=4">
-      <img src="https://img.shields.io/badge/이력서-%23000000.svg?style=flat&logo=notion&logoColor=white">
-    </a>
-  </div>
     
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimMinKyo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
