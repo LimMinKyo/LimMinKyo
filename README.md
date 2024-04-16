@@ -76,14 +76,14 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LimMinKyo&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimMinKyo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimMinKyo&show_icons=truetitle_color=004386&icon_color=004386&layout=compact">
 
   <br>
   <br>
   <br>
 
   <div align="center">
-    <a href="https://false-baseball-e2c.notion.site/1-4bf4fae4b2a9406faac0f125e9aa53d0?pvs=4" target="_blank">
+    <a href="https://false-baseball-e2c.notion.site/1-4bf4fae4b2a9406faac0f125e9aa53d0?pvs=4">
       <img src="https://img.shields.io/badge/이력서-%23000000.svg?style=flat&logo=notion&logoColor=white">
     </a>
   </div>
