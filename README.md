@@ -38,8 +38,8 @@
 
 ### Frontend
 <div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-%2320232a.svg?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-%2320232a.svg?style=flat-square&logo=vuedotjs&logoColor=white&color=%23#4FC08D">
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-007af4.svg?style=flat-square&logo=recoil&logoColor=white">
